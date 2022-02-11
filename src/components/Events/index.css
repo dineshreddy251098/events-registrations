@@ -1,0 +1,23 @@
+.bg-container {
+  display: flex;
+}
+.events-section-container {
+  padding: 20px;
+  background-image: linear-gradient(to top left, #475569, #64748b);
+  width: 65%;
+}
+.events-list-container {
+  display: flex;
+  padding: 0px;
+  flex-wrap: wrap;
+}
+.event-heading {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'roboto';
+  color: #fff;
+}
+.active-event-container {
+  padding: 20px;
+  width: 45%;
+}
